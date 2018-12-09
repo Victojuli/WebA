@@ -12,6 +12,8 @@ namespace WebA.Controllers
     {
         public IActionResult Index()
         {
+            //
+
             return View();
         }
 
